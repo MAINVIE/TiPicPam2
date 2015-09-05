@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">TiPicPam</string>
+
+
+    <string name="hello_world">Hello world!</string>
+    <string name="zxv">asd</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="title_activity_about_us">AboutUsActivity</string>
+    <string name="title_activity_photos">Popular Photos</string>
+    <string name="title_activity_search">SearchActivity</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="action_settings"> Filters </string>
+    <string name="search_prompt">Enter search  query</string>
+    <string name="save_label">Search</string>
+    <string name="image_title_label">Image Title</string>
+    <string name="title_activity_image_display">Full Image</string>
+    <string name="amp_s">map</string>
+    <string name="about">about us</string>
+    <string name="pl">Bel Plaj</string>
+    <string name="bf">Selebrite</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="mk">face</string>
+    <string name="as">3.SAINTYL Wiska saintylwiska83@yahoo.fr</string>
+    <string name="abe">2. MAINVIEL Abellard mainvielc@gmail.com tel:34005612</string>
+    <string name="mp">1.MOMPREMIER E. Anios-Fils eaniosfils21@yahoo.com</string>
+    <string name="intro">PhotoLooker is the final project of Three debutant Android Developers:</string>
+</resources>
